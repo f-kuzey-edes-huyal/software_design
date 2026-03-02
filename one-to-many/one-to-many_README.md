@@ -17,9 +17,10 @@ This project demonstrates the **one-to-many relationship** in Java using **Objec
 ```del *.class```
 
 3. Compile all Java files for Java 8 compatibility:
+   
 ```javac --release 8 *.java```
-
-```java Main````
+4. Run the program:
+```java Main```
 
 Students of Mrs. Smith:
 - Alice
