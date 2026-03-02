@@ -19,9 +19,13 @@ This project demonstrates the **one-to-many relationship** in Java using **Objec
 3. Compile all Java files for Java 8 compatibility:
    
 ```javac --release 8 *.java```
-4. Run the program:
-```java Main```
 
-Students of Mrs. Smith:
+4. Run the program:
+   
+```java Main```
+Expected output:
+
+```Students of Mrs. Smith:
 - Alice
 - Bob
+```
