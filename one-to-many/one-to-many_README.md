@@ -14,12 +14,12 @@ This project demonstrates the **one-to-many relationship** in Java using **Objec
 
 2. **Delete old compiled class files** (optional but recommended):
 
-del *.class
+```del *.class```
 
+3. Compile all Java files for Java 8 compatibility:
+```javac --release 8 *.java```
 
-javac --release 8 *.java
-
-java Main
+```java Main````
 
 Students of Mrs. Smith:
 - Alice
