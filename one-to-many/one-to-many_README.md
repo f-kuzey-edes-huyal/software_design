@@ -15,3 +15,12 @@ This project demonstrates the **one-to-many relationship** in Java using **Objec
 2. **Delete old compiled class files** (optional but recommended):
 
 del *.class
+
+
+javac --release 8 *.java
+
+java Main
+
+Students of Mrs. Smith:
+- Alice
+- Bob
