@@ -23,3 +23,7 @@
 
 3. Run
    ```java StarbuzzCoffee```
+
+## Reference
+
+This Decorator Pattern exercise is based on the *Starbuzz Coffee* example from *Head First Design Patterns* by Eric Freeman and Elisabeth Robson.
